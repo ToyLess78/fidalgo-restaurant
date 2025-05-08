@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',  // Enable static exports
+  distDir: 'out',    // Output directory for the static build
   images: {
-    unoptimized: true,
+    unoptimized: true, // Required for static export
     domains: [
       "source.unsplash.com",
       "images.unsplash.com",
