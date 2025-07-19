@@ -81,7 +81,7 @@ export default function Header() {
             Book a table
           </Link>
           <nav className="hidden lg:flex items-center space-x-8 ml-8">
-            {navLinks.slice(3).map((link) => (
+            {navLinks.slice(4).map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
