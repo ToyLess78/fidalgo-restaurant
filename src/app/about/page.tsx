@@ -7,7 +7,7 @@ export default function AboutPage() {
       <div className="relative bg-muted h-60 flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
+            src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1200"
             alt="About Fidalgo"
             fill
             className="object-cover opacity-20"
@@ -36,7 +36,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div className="relative h-[400px] md:h-[500px]">
               <Image
-                src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg"
+                src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Our Chef"
                 fill
                 className="object-cover rounded-sm"
@@ -83,7 +83,7 @@ export default function AboutPage() {
             </div>
             <div className="order-1 md:order-2 relative h-[400px] md:h-[500px]">
               <Image
-                src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
+                src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Our Restaurant"
                 fill
                 className="object-cover rounded-sm"
@@ -104,7 +104,7 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative h-80 mb-4 rounded-sm overflow-hidden">
                   <Image
-                    src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg"
+                    src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=600"
                     alt="Executive Chef"
                     fill
                     className="object-cover"
@@ -121,7 +121,7 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative h-80 mb-4 rounded-sm overflow-hidden">
                   <Image
-                    src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg"
+                    src="https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=600"
                     alt="Pastry Chef"
                     fill
                     className="object-cover"
@@ -138,7 +138,7 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative h-80 mb-4 rounded-sm overflow-hidden">
                   <Image
-                    src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
+                    src="https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=600"
                     alt="Restaurant Manager"
                     fill
                     className="object-cover"

@@ -9,7 +9,7 @@ export default function CuisineSection() {
           <div className="order-2 md:order-1">
             <div className="relative h-[400px] md:h-[500px]">
               <Image
-                src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
+                src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Fine Dining Experience"
                 fill
                 className="object-cover rounded-sm"

@@ -157,7 +157,7 @@ export default function MenuPage() {
       <div className="relative bg-muted h-60 flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/menu-1.jpg"
+            src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1200"
             alt="Menu Banner"
             fill
             className="object-cover opacity-20"
@@ -174,7 +174,7 @@ export default function MenuPage() {
         <MenuSection
           title="Appetizers"
           items={menuData.appetizers}
-          imageSrc="/images/menu/appetizer.jpg"
+          imageSrc="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600"
         />
         <MenuSection
           title="Main Courses"

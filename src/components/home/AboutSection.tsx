@@ -24,7 +24,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="relative h-[400px] md:h-[500px]">
               <Image
-                src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg"
+                src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Our Chef"
                 fill
                 className="object-cover rounded-sm"
@@ -32,7 +32,7 @@ export default function AboutSection() {
             </div>
             <div className="absolute bottom-6 right-6 md:bottom-12 md:right-12 bg-background p-4 md:p-6 rounded-sm shadow-lg">
               <Image
-                src="/images/hero-bg.jpg"
+                src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=200"
                 alt="Fidalgo signature"
                 width={120}
                 height={80}

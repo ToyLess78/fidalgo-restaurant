@@ -31,11 +31,11 @@ function InstagramImage({ src, alt }: InstagramImageProps) {
 export default function InstagramSection() {
   // In a real app, these would be fetched from an API or CMS
   const instagramImages = [
-    { id: "img1", src: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg", alt: "Delicious dish" },
-    { id: "img2", src: "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg", alt: "Restaurant atmosphere" },
-    { id: "img3", src: "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg", alt: "Chef creation" },
-    { id: "img4", src: "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg", alt: "Restaurant interior" },
-    { id: "img5", src: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg", alt: "Special menu" },
+    { id: "img1", src: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400", alt: "Delicious dish" },
+    { id: "img2", src: "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=400", alt: "Restaurant atmosphere" },
+    { id: "img3", src: "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=400", alt: "Chef creation" },
+    { id: "img4", src: "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=400", alt: "Restaurant interior" },
+    { id: "img5", src: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400", alt: "Special menu" },
   ];
 
   return (

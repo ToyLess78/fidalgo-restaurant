@@ -10,7 +10,7 @@ export default function ContactPage() {
       <div className="relative bg-muted h-60 flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
+            src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1200"
             alt="Contact Us"
             fill
             className="object-cover opacity-20"

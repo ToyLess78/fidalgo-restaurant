@@ -6,7 +6,7 @@ export default function HeroSection() {
     <section className="relative h-screen min-h-[600px] flex items-center">
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"
+          src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1600"
           alt="Fidalgo Restaurant"
           fill
           className="object-cover object-center"
