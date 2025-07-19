@@ -11,7 +11,7 @@ export default function BookingSection() {
     <section className="relative py-16 md:py-24">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/restaurant.jpg"
+          src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
           alt="Restaurant interior"
           fill
           className="object-cover"

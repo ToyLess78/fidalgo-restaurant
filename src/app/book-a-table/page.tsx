@@ -9,7 +9,7 @@ export default function BookATablePage() {
       <div className="relative bg-muted h-60 flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/restaurant.jpg"
+            src="https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
             alt="Book a Table"
             fill
             className="object-cover opacity-30"

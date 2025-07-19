@@ -24,7 +24,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="relative h-[400px] md:h-[500px]">
               <Image
-                src="/images/chef.jpg"
+                src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg"
                 alt="Our Chef"
                 fill
                 className="object-cover rounded-sm"

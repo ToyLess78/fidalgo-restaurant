@@ -31,11 +31,11 @@ function InstagramImage({ src, alt }: InstagramImageProps) {
 export default function InstagramSection() {
   // In a real app, these would be fetched from an API or CMS
   const instagramImages = [
-    { id: "img1", src: "/images/food-1.jpg", alt: "Delicious dish" },
-    { id: "img2", src: "/images/dining.jpg", alt: "Restaurant atmosphere" },
-    { id: "img3", src: "/images/chef.jpg", alt: "Chef creation" },
-    { id: "img4", src: "/images/restaurant.jpg", alt: "Restaurant interior" },
-    { id: "img5", src: "/images/menu-1.jpg", alt: "Special menu" },
+    { id: "img1", src: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg", alt: "Delicious dish" },
+    { id: "img2", src: "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg", alt: "Restaurant atmosphere" },
+    { id: "img3", src: "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg", alt: "Chef creation" },
+    { id: "img4", src: "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg", alt: "Restaurant interior" },
+    { id: "img5", src: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg", alt: "Special menu" },
   ];
 
   return (

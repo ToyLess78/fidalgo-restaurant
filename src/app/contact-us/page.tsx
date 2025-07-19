@@ -13,7 +13,7 @@ export default function ContactUsPage() {
             className="absolute inset-0 bg-gradient-to-r from-background via-background/95 to-background/80"
           />
           <Image
-            src="/images/dining.jpg"
+            src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
             alt="Contact Fidalgo"
             fill
             className="object-cover opacity-20"
