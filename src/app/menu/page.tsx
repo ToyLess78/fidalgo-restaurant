@@ -183,7 +183,7 @@ export default function MenuPage() {
         <MenuSection
           title="Desserts"
           items={menuData.desserts}
-          imageSrc="/images/menu/dessert.jpg"
+          imageSrc="https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=800"
         />
         <MenuSection
           title="Drinks"
